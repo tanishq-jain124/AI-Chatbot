@@ -6,8 +6,6 @@
 
 A blazing-fast conversational AI chatbot powered by **Groq's ultra-low latency hardware** and **Llama-3.3-70b** model. Built with Streamlit for an interactive, feature-rich experience.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 
 ## ✨ Features
@@ -219,21 +217,21 @@ Contributions are welcome! Please follow these steps:
 
 ## 📸 Screenshots
 
-*(Add screenshots here after deploying)*
+
 <img width="1918" height="1013" alt="output_chatbot" src="https://github.com/user-attachments/assets/41835841-83a3-4395-9e37-91bc725687a0" />
 
 
 
 <details>
-<summary>Click to see screenshots</summary>
+
 
 ### Main Interface
-![Main Interface](screenshots/main.png)
+
 <img width="1918" height="1013" alt="output_chatbot" src="https://github.com/user-attachments/assets/07854568-d046-4ff7-920e-23e547bccf59" />
 
 
 ### PDF Chat
-![PDF Chat](screenshots/pdf.png)
+
 
 <img width="1918" height="1013" alt="output_chatbot" src="https://github.com/user-attachments/assets/0c680e62-1587-482d-ae6b-7240a6ac6210" />
 
@@ -295,6 +293,4 @@ This README provides:
 - **Usage instructions** with examples
 - **Security information**
 - **Troubleshooting guide**
-- **Professional formatting** with emojis and sections
-
-You can customize the GitHub URLs and add screenshots once you upload the repo! 🚀
+- **Professional formatting** with emojis and sections🚀
